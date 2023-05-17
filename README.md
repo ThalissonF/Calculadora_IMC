@@ -1,0 +1,1 @@
+Projeto criado para praticar HTML, CSS e Javascript. Utilizando manipulação do DOM, funções e etc.
